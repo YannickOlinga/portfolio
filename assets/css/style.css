@@ -1886,8 +1886,8 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .skill-tag {
-    background: var(--bg-gradient-yellow-1);
-    color: var(--bg-jet);
+    background: hsl(45, 100%, 71%) 0%;
+    color: rgb(0, 0, 0);
     padding: 8px 16px;
     border-radius: 20px;
     font-size: var(--fs-8);
